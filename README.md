@@ -2,6 +2,9 @@
 
 This repository contains a fully-configurable DevOps monitoring stack leveraging **Grafana**, **InfluxDB**, and **Telegraf**. Using Docker Compose, this setup provides an efficient way to monitor system metrics, visualize data, and gain actionable insights into your infrastructure.
 
+![image](https://github.com/user-attachments/assets/2e0dc0cd-7a37-48cc-98fe-a922559966f4)
+
+
 ## Features
 - **Grafana**: Real-time dashboards with customizable visualizations.
 - **InfluxDB**: A high-performance time-series database for storing metrics.
